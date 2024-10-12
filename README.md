@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/harmzyy/Easy-PlayFab-For-Modders/refs/heads/main/epfm.ico
 For support go to: https://discord.gg/gFUzTtmv2Y
 ------------------------------------------------
 READ: If your playfab has been affected this is not on us and this was just created for fun! 
